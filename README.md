@@ -12,4 +12,4 @@
     </body>
 </html>
 
-# Kurulum videosu kanalımda mevcut 
+# 
